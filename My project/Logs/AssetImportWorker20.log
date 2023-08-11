@@ -1,0 +1,20 @@
+Using pre-set license
+Built from '2022.3/china_unity/release' branch; Version is '2022.3.5f1c1 (8357566ed26e) revision 8607574'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'zh' Physical Memory: 32581 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+D:\unity\2022.3.5f1c1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker20
+-projectPath
+D:/unity/ProjectA/My project
+-logFile
+Logs/AssetImportWorker20.log
+-srvPort
+51893
+Couldn't set project path to: D:/unity/ProjectA/My project/D:/unity/ProjectA/My project
+Exiting without the bug reporter. Application will terminate with return code 1
